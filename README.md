@@ -1,2 +1,2 @@
 # low-plugins
-A simple &amp;&amp; low  plugins &amp;&amp; components for Vue.js
+A simple && low components library for Vue.js
